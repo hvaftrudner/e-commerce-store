@@ -1,0 +1,16 @@
+.productsCollection {
+    background-color: blue;
+    height: 100%;
+    width: 80%;
+
+    margin-left: 20px;
+    margin-top: 20px;
+/* 
+    move this to a sub div */
+    display: inline-grid;
+    grid-template-columns: auto auto auto auto;
+    grid-template-columns: auto auto auto auto;
+    gap: 10px;
+   
+    
+}

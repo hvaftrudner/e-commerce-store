@@ -1,0 +1,9 @@
+.productView {
+    background-color: greenyellow;
+    width: 15vw;
+    height: 30vh;
+
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+}
